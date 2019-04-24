@@ -2,7 +2,7 @@
 #### Yoshua Lukas - 1313617021 
 #### Username on [Exercism](https://exercism.io) : yoshualukash 
 Repositori ini dibuat untuk memenuhi tugas mata kuliah Operating System semester 110 Ilmu Komputer UNJ, tentang
-Problem Solve Medium Level Rust yang ada pada website exercism.io .
+Problem Solve Medium Level Rust yang ada pada [Rust Exercism](https://exercism.io/my/tracks/rust) .
 
 5 Medium Problem yang saya kerjakan:
   1. Hamming
