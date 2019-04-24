@@ -41,7 +41,7 @@ pub fn check(candidate: &str) -> bool {
 }
 ```
 ## Penjelasan problemnya
-Dalam problem isogram, kita diminta untuk membuat program yang dapat mengenali apakah suatu kata memiliki pengulangan huruf(isogram)  atau tidak.
+Dalam problem isogram, kita diminta untuk membuat program yang dapat mengenali apakah suatu kata memiliki pengulangan huruf atau tidak (Isogram).
 
 Contoh kata yang termasuk isogram :
   + lumberjacks 
