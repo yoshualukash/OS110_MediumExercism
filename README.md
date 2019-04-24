@@ -97,9 +97,9 @@ Algoritma tersebut akan berhenti jika:
 - Semua huruf dalam kata tersebut selesai di seleksi. -> me-return true (kata tersebut adalah kata isogram).
 - Ada huruf yang sama setelah di cek dalam hashset list huruf. -> me-return false (kata tersebut bukan kata isogram).
 
-`.contains(&huruf)` untuk mengecek suatu huruf apakah sudah ada di dalam hashset list huruf.
+  `.contains(&huruf)` untuk mengecek suatu huruf apakah sudah ada di dalam hashset list huruf.
 
-`.insert(huruf)` untuk memasukkan huruf kedalam hashset.
+  `.insert(huruf)` untuk memasukkan huruf kedalam hashset.
 
 ***
 Demikian penjelasan saya mengenai medium level problem Isogram. Terima Kasih !
